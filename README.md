@@ -2,7 +2,7 @@
 
 An advanced medical image analysis platform that uses deep learning to detect and classify breast cancer lesions in ultrasound images.
 
-![Breast Cancer Detection System Interface](screenshot1.png)
+![Breast Cancer Detection System Interface](images/Screenshot1.jpg)
 
 ## Features
 
@@ -40,7 +40,7 @@ The system provides:
 - Confidence scores for each detection
 - Exact location coordinates (X, Y) for each finding
 
-![Detailed Findings Interface](screenshot2.png)
+![Detailed Findings Interface](images/Screenshot1.jpg)
 
 ## Technical Details
 
