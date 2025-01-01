@@ -40,7 +40,7 @@ The system provides:
 - Confidence scores for each detection
 - Exact location coordinates (X, Y) for each finding
 
-![Detailed Findings Interface](images/Screenshot1.jpg)
+![Detailed Findings Interface](images/Screenshot2.jpg)
 
 ## Technical Details
 
