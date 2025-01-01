@@ -106,9 +106,6 @@ Built with:
 - OpenCV for image processing
 - Python for backend processing
 
-## Credits
-
-Mohamed IFQIR
 
 ---
 
