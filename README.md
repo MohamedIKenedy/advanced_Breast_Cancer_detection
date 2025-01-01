@@ -72,6 +72,7 @@ Location: X: 0.50, Y: 0.29
 The system uses a sophisticated deep learning model trained on medical imaging data. The default confidence threshold is set to 0.70, which provides a good balance between sensitivity and specificity. Users can adjust this threshold based on their specific needs:
 - Higher threshold (>0.70): More confident predictions but might miss some findings
 - Lower threshold (<0.70): More sensitive detection but may increase false positives
+![Model performance](model.png)
 
 ## Important Notes
 
